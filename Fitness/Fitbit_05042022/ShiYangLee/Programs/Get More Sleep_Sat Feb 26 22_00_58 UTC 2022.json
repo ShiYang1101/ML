@@ -1,0 +1,157 @@
+{
+  "summary" : {
+    "title" : "Get More Sleep",
+    "subtitle" : null,
+    "status" : "COMPLETE",
+    "startedAt" : "2022-02-26T22:00:58Z",
+    "endedAt" : "2022-03-18T17:15:56Z",
+    "detail" : "<p>Stop tolerating tired. Get more sleep with this easy-to-follow program built with guidance from sleep experts.</p> <p>Here’s what to expect in the next 2 weeks:</p> <ul> <li><b>Guided sleep goal:</b> Set a doable, weekly goal based on your sleep data to impact your time asleep and your Sleep Score.</li> <li><b>Bedtime routine:</b> Follow easy steps to prepare for bed and build bedtime habits.</li> <li><b>Relaxation tools:</b> Fall asleep to nature sounds or relaxing music from our library.  </li></ul> <p>If you have trouble falling or staying asleep, try doing Get More Sleep and Habits for Restful Sleep together.</p>\n<p>Before you start please note, this program is not made for those with clinical insomnia or apnea disorders.</p>\n<p><i>You should always consult with your health care professional before starting a new program. Any information within this program is not intended as a replacement for any medical advice, diagnosis or treatments and should not be relied upon as such. If you have any concerns or questions about your health, you should always consult with a health care professional.</i></p>"
+  },
+  "state" : {
+    "debug" : { },
+    "elements" : {
+      "__root__" : {
+        "userId" : "9WLDBW",
+        "activePageId" : "",
+        "completed" : true
+      },
+      "checklist-bed-prep-0" : { },
+      "checklist-bed-prep-1" : { },
+      "checklist-bed-prep-2" : { },
+      "checklist-bed-prep-3" : { },
+      "checklist-bed-prep-4" : { },
+      "checklist-bed-prep-5" : { },
+      "checklist-bed-prep-6" : { },
+      "checklist-bed-prep-7" : { },
+      "checklist-bed-prep-8" : { },
+      "checklist-bed-prep-9" : {
+        "completed" : true
+      },
+      "checklist-bed-prep-10" : { },
+      "checklist-bed-prep-11" : {
+        "completed" : true
+      },
+      "checklist-bed-prep-12" : { },
+      "checklist-bed-prep-13" : { },
+      "checklist-relaxing-activity-0" : { },
+      "checklist-relaxing-activity-1" : { },
+      "checklist-relaxing-activity-2" : { },
+      "checklist-relaxing-activity-3" : { },
+      "checklist-relaxing-activity-4" : { },
+      "checklist-relaxing-activity-5" : { },
+      "checklist-relaxing-activity-6" : { },
+      "checklist-relaxing-activity-7" : { },
+      "checklist-relaxing-activity-8" : { },
+      "checklist-relaxing-activity-9" : { },
+      "checklist-relaxing-activity-10" : { },
+      "checklist-relaxing-activity-11" : {
+        "completed" : true
+      },
+      "checklist-relaxing-activity-12" : { },
+      "checklist-relaxing-activity-13" : { },
+      "checklist-turn-off-screens-7" : { },
+      "checklist-turn-off-screens-8" : { },
+      "checklist-turn-off-screens-9" : { },
+      "checklist-turn-off-screens-10" : { },
+      "checklist-turn-off-screens-11" : {
+        "completed" : true
+      },
+      "checklist-turn-off-screens-12" : { },
+      "checklist-turn-off-screens-13" : { },
+      "56507bed3b09ee511857a845abc0e4ca" : {
+        "markedAsCompleted" : true
+      },
+      "node-id-379927" : {
+        "celebrated" : true
+      },
+      "node-id-839493" : {
+        "celebrated" : true
+      },
+      "node-id-795381" : {
+        "celebrated" : true
+      },
+      "OFFBOARDING_SURVEY_RATING" : {
+        "value" : "OFFBOARDING_SURVEY_SCALE_MEDIUM"
+      }
+    },
+    "global" : {
+      "timezone" : "Europe/London",
+      "userDisplayName" : "Shi Yang",
+      "userTimeFormat" : "12hour",
+      "dailyChecklistIds" : [ "checklist-bed-prep", "checklist-relaxing-activity", "checklist-turn-off-screens" ],
+      "hasSleepEnabledDevice" : true,
+      "avgSleepMins" : 0,
+      "targetWakeupTime" : "07:00",
+      "targetBedtime" : "23:15",
+      "onboardingBedtimeReminderTime" : "22:45",
+      "onboardingEnergyQuestionScore" : 2,
+      "onboardingMoodQuestionScore" : 1,
+      "onboardingEnergyDuringDayQuestionScore" : 0,
+      "onboardingSleepDifficultyQuestionScore" : 2,
+      "checkInTargetBedtime" : "23:15",
+      "checkInBedtimeReminderTime" : "22:45",
+      "currentFlowPageId" : "offboardingSurvey-feedback",
+      "days" : [ {
+        "minutesAsleep" : 0,
+        "sleepStartTime" : ""
+      }, {
+        "minutesAsleep" : 395,
+        "sleepStartTime" : "2022-02-27T01:25:30.000"
+      }, {
+        "minutesAsleep" : 328,
+        "sleepStartTime" : "2022-02-28T01:00:00.000"
+      }, {
+        "minutesAsleep" : 321,
+        "sleepStartTime" : "2022-03-01T03:01:30.000"
+      }, {
+        "minutesAsleep" : 394,
+        "sleepStartTime" : "2022-03-01T22:53:00.000"
+      }, {
+        "minutesAsleep" : 287,
+        "sleepStartTime" : "2022-03-03T01:26:00.000"
+      }, {
+        "minutesAsleep" : 395,
+        "sleepStartTime" : "2022-03-03T23:38:00.000"
+      }, {
+        "minutesAsleep" : 544,
+        "sleepStartTime" : "2022-03-04T22:56:00.000"
+      }, {
+        "minutesAsleep" : 469,
+        "sleepStartTime" : "2022-03-06T01:11:00.000"
+      }, {
+        "minutesAsleep" : 470,
+        "sleepStartTime" : "2022-03-07T00:22:30.000"
+      }, {
+        "minutesAsleep" : 403,
+        "sleepStartTime" : "2022-03-07T22:58:00.000"
+      }, {
+        "minutesAsleep" : 425,
+        "sleepStartTime" : "2022-03-08T22:52:30.000"
+      }, {
+        "minutesAsleep" : 459,
+        "sleepStartTime" : "2022-03-09T23:07:30.000"
+      }, {
+        "minutesAsleep" : 519,
+        "sleepStartTime" : "2022-03-10T23:32:00.000"
+      } ],
+      "__protected" : {
+        "currentLocale" : "en_US"
+      },
+      "onboardingNodOffQuestionScore" : 1,
+      "sleepGoalMins" : 390,
+      "allowReminders" : true,
+      "startDate" : "2022-02-26T22:02:49.036+00:00",
+      "firstWeekAverageMinutesAsleep" : 380,
+      "checkInEnergyQuestionScore" : 1,
+      "checkInMoodQuestionScore" : 1,
+      "checkInEnergyDuringDayQuestionScore" : 1,
+      "weekTwoSleepGoalMins" : 390,
+      "isCheckInComplete" : true,
+      "endDate" : "2022-03-18T17:15:39.466+00:00",
+      "programAverageMinutesAsleep" : 420,
+      "complete" : true,
+      "surveyFeedbackComplete" : true,
+      "isOutroComplete" : true
+    }
+  }
+}

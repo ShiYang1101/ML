@@ -1,0 +1,29 @@
+entry_id,log_time,log_type,value,meta,entry_category,zone_offset
+bd71d520-aecf-11ec-8406-7bfc72466f6a,2022-03-28T20:46:19,MOOD,2,{platform=mobile, source=stress},MOOD,+01:00
+617b2110-aab3-11ec-9421-032310160061,2022-03-23T14:13:13,MOOD,3,{platform=mobile},MOOD,Z
+10fc07e0-a8f1-11ec-a67d-71840c075739,2022-03-21T07:29:26,MOOD,1,{mindfulnessSessionId=bd430300-a8e7-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+11b06930-a5cf-11ec-90e4-4d04cb266be9,2022-03-17T08:48:47,MOOD,1,{mindfulnessSessionId=8cbf78c0-a5cd-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+a234ffa0-a5c7-11ec-849a-232c1ee9a706,2022-03-17T07:51:09,MOOD,2,{mindfulnessSessionId=4efcc9e0-a5c6-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+5e66d520-a200-11ec-a62c-29826eeb8318,2022-03-12T12:31:32,MOOD,1,{mindfulnessSessionId=6003b1b0-a1ff-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+220d0760-a080-11ec-a7ca-6f24f94fc145,2022-03-10T14:41:11,MOOD,2,{platform=mobile, source=stress},MOOD,Z
+088954f0-9f0a-11ec-9481-d576af6310f8,2022-03-08T18:03:11,MOOD,2,{mindfulnessSessionId=b58df690-9f07-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+8f202a00-9f07-11ec-9481-d576af6310f8,2022-03-08T17:45:33,MOOD,3,{platform=mobile},MOOD,Z
+4a7822f0-9eb1-11ec-9970-ff57528691a8,2022-03-08T07:27:58,MOOD,1,{mindfulnessSessionId=14afe560-9eaf-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+5f8bd660-9e8d-11ec-a54a-d56ba50712cc,2022-03-08T03:10:33,MOOD,1,{mindfulnessSessionId=db14c950-9e69-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+9104f5d0-9e26-11ec-969b-95d555790488,2022-03-07T14:54:59,MOOD,2,{platform=mobile, source=stress},MOOD,Z
+53b9d2d0-9e1d-11ec-bfa6-0fa29f54647d,2022-03-07T13:48:52,MOOD,2,{platform=mobile, source=stress},MOOD,Z
+72e7c720-9dfa-11ec-8f2b-37604495bc6d,2022-03-07T09:39:11,MOOD,2,{platform=mobile, source=stress},MOOD,Z
+858a3930-9de6-11ec-a18b-dde3d3c4aaa7,2022-03-07T07:16:29,MOOD,1,{mindfulnessSessionId=1a4b0b00-9de5-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+d58fd400-9de4-11ec-8fde-3b7c3da728ea,2022-03-07T07:04:27,MOOD,2,{platform=mobile, source=stress},MOOD,Z
+2d6ca6b0-9da6-11ec-ad50-4ba118222a35,2022-03-06T23:35:57,MOOD,3,{platform=mobile},MOOD,Z
+4927a870-9d90-11ec-a1c4-eb3f426e8c16,2022-03-06T20:59:15,MOOD,1,{platform=mobile, source=stress},MOOD,Z
+c9fc7860-9d7a-11ec-8c25-79a11c1157d0,2022-03-06T18:25:20,MOOD,3,{platform=mobile, source=stress},MOOD,Z
+3689fd50-9d20-11ec-8f22-8779936c9c8e,2022-03-06T07:36:52,MOOD,2,{platform=mobile, source=stress},MOOD,Z
+a6601ec0-9cdf-11ec-915a-85434450037d,2022-03-05T23:54:50,MOOD,1,{platform=mobile},MOOD,Z
+8265ec40-9cc9-11ec-a4fa-d5ae0d4a50db,2022-03-05T21:16:18,MOOD,2,{platform=mobile, source=stress},MOOD,Z
+71a315d0-9cc0-11ec-8fbf-d9eb49f6ecf7,2022-03-05T20:11:25,MOOD,2,{platform=mobile, source=stress},MOOD,Z
+a746abd0-9cab-11ec-8969-8b98eef43a41,2022-03-05T17:42:34,MOOD,1,{platform=mobile, source=stress},MOOD,Z
+4ba868f0-9c69-11ec-a4fa-d5ae0d4a50db,2022-03-05T09:47:31,MOOD,1,{mindfulnessSessionId=d809de60-9c68-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+f6aae920-9b8e-11ec-a4db-9153ae57e6b5,2022-03-04T07:36:39,MOOD,0,{mindfulnessSessionId=20803590-9b8d-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+60d72e10-9b4b-11ec-aca0-030147475dde,2022-03-03T23:40:29,MOOD,1,{mindfulnessSessionId=9a94f020-9b4a-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z
+5f104630-9b4a-11ec-a997-617247289d0b,2022-03-03T23:33:29,MOOD,1,{mindfulnessSessionId=9ef02960-9b49-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,Z

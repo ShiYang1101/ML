@@ -1,0 +1,43 @@
+{
+  "summary" : {
+    "title" : "Full-Body Strong",
+    "subtitle" : null,
+    "status" : "ABANDONED",
+    "startedAt" : "2022-03-17T20:17:14Z",
+    "endedAt" : "2022-04-01T18:56:32Z",
+    "detail" : "<p><b>Build all-over strength with 3 bodyweight workouts weekly — all are under 30 minutes.</b></p> <p>Here's what to expect for the next 3 weeks:</p> <ul> <li><b>Week 1:</b> Short sessions that blend strength and mobility work to prep your body for building muscle.</li> <li><b>Week 2:</b> Throw in some cardio HIIT to challenge your body in new ways.</li> <li><b>Week 3:</b> Break it down by body part with a concentrated leg day, an upper-body workout, and end with a full-body session to tie it together. </li></ul><p><i>You should always consult with your health care professional before starting a new plan. Any information within this plan is not intended as a replacement for any medical advice, diagnosis or treatments and should not be relied upon as such. If you have any concerns or questions about your health, you should always consult with a health care professional.</i></p>"
+  },
+  "state" : {
+    "debug" : { },
+    "elements" : {
+      "__root__" : {
+        "userId" : "9WLDBW",
+        "activePageId" : "onboarding-plan"
+      },
+      "week0item0" : { },
+      "week0item1" : { },
+      "week0item2" : { },
+      "onboarding-plan-counter" : {
+        "celebrated" : true
+      }
+    },
+    "global" : {
+      "__protected" : {
+        "currentLocale" : "en_US"
+      },
+      "currentFlowPageId" : "",
+      "lastNotificationSent" : -1,
+      "lastWorkoutCompletedOn" : -1,
+      "nextCheckin" : 0,
+      "notificationChoice" : "decline",
+      "onboardingComplete" : true,
+      "startDate" : "2022-03-17T00:00:00.000+00:00",
+      "timeFormat" : "12hour",
+      "timezone" : "Europe/London",
+      "userName" : "Shi Yang",
+      "weekEndedAnalytic" : -1,
+      "weekNumber" : 0,
+      "weekStartDate" : "2022-03-17T00:00:00.000+00:00"
+    }
+  }
+}

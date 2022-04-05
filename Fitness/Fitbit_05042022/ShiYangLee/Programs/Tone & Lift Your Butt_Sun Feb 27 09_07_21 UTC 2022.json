@@ -1,0 +1,64 @@
+{
+  "summary" : {
+    "title" : "Tone & Lift Your Butt",
+    "subtitle" : null,
+    "status" : "ABANDONED",
+    "startedAt" : "2022-02-27T09:07:21Z",
+    "endedAt" : "2022-03-26T16:16:05Z",
+    "detail" : "<p><b>Tone and strengthen your glutes and hamstrings with 3 bodyweight workouts weekly.</b></p> <p>In this 3-week plan you will:</p> <ul> <li><b>Build strength</b> in your butt, legs and core. </li> <li><b>Work your core</b> while strengthening your lower body.</li> <li><b>Learn new moves</b> to sustain your gains. </li></ul>\n<p><i>You should always consult with your health care professional before starting a new plan. Any information within this plan is not intended as a replacement for any medical advice, diagnosis or treatments and should not be relied upon as such. If you have any concerns or questions about your health, you should always consult with a health care professional.</i></p>"
+  },
+  "state" : {
+    "debug" : { },
+    "elements" : {
+      "__root__" : {
+        "userId" : "9WLDBW",
+        "activePageId" : "weekPage"
+      },
+      "week0item0" : {
+        "completed" : true
+      },
+      "week0item1" : {
+        "completed" : true
+      },
+      "week0item2" : { },
+      "onboarding-plan-counter" : {
+        "celebrated" : true
+      },
+      "2a417ad5979e13014134d7394df19e71" : {
+        "markedAsCompleted" : true
+      },
+      "d722ea5126dc57aab2933949d2531c50" : {
+        "markedAsCompleted" : true
+      },
+      "week1item0" : { },
+      "week1item1" : { },
+      "week1item2" : { },
+      "week2item0" : {
+        "completed" : true
+      },
+      "week2item1" : { },
+      "week2item2" : { },
+      "a3ceb8f1da17cefa67c39e5ed2fca855" : {
+        "markedAsCompleted" : true
+      }
+    },
+    "global" : {
+      "__protected" : {
+        "currentLocale" : "en_US"
+      },
+      "currentFlowPageId" : "",
+      "lastNotificationSent" : 20,
+      "lastWorkoutCompletedOn" : -1,
+      "nextCheckin" : 2,
+      "notificationChoice" : "2022-02-27T18:00:00Z",
+      "onboardingComplete" : true,
+      "startDate" : "2022-02-27T00:00:00.000+00:00",
+      "timeFormat" : "12hour",
+      "timezone" : "Europe/London",
+      "userName" : "Shi Yang",
+      "weekEndedAnalytic" : 1,
+      "weekNumber" : 2,
+      "weekStartDate" : "2022-03-14T00:00:00.000+00:00"
+    }
+  }
+}

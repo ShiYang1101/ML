@@ -1,0 +1,185 @@
+{
+  "summary" : {
+    "title" : "Habits for Restful Sleep",
+    "subtitle" : null,
+    "status" : "COMPLETE",
+    "startedAt" : "2022-02-26T22:04:06Z",
+    "endedAt" : "2022-03-12T09:48:42Z",
+    "detail" : "<p>Focus on your habits during the day to improve sleep at night. Let's learn what works according to sleep experts and turn what you learn into habits.</p><p>In this 2-week program you will:</p><ul><li><b>Start with a sleep survey: </b>Understand how your habits affect sleep.</li><li><b>Build habits for better sleep: </b>Try new habits and keep track of your progress.</li> <li><b>Explore daily warm-ups: </b>Power your mornings with mindfulness activities.</li></ul>\n<p>Need extra help relaxing before bed? Try this program along with the Get More Sleep program.</p>\n<p><i>You should always consult with your health care professional before starting a new program. Any information within this program is not intended as a replacement for any medical advice, diagnosis or treatments and should not be relied upon as such. If you have any concerns or questions about your health, you should always consult with a health care professional.</i></p>"
+  },
+  "state" : {
+    "debug" : { },
+    "elements" : {
+      "__root__" : {
+        "userId" : "9WLDBW",
+        "activePageId" : "",
+        "completed" : true
+      },
+      "node-id-261978" : {
+        "celebrated" : true
+      },
+      "node-id-261979" : {
+        "celebrated" : true
+      },
+      "checklistItem-calendar-page-badHabitsSnooze-0" : {
+        "completed" : false
+      },
+      "checklistItem-calendar-page-goodHabitsMindful-0" : { },
+      "checklistItem-calendar-page-badHabitsSnooze-1" : { },
+      "checklistItem-calendar-page-goodHabitsMindful-1" : { },
+      "checklistItem-calendar-page-badHabitsSnooze-2" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-goodHabitsMindful-2" : { },
+      "checklistItem-calendar-page-badHabitsSnooze-3" : { },
+      "checklistItem-calendar-page-goodHabitsMindful-3" : { },
+      "checklistItem-calendar-page-badHabitsSnooze-4" : { },
+      "checklistItem-calendar-page-goodHabitsMindful-4" : { },
+      "checklistItem-calendar-page-badHabitsSnooze-5" : { },
+      "checklistItem-calendar-page-goodHabitsMindful-5" : {
+        "completed" : false
+      },
+      "checklistItem-calendar-page-badHabitsSnooze-6" : { },
+      "checklistItem-calendar-page-goodHabitsMindful-6" : { },
+      "checklistItem-calendar-page-badHabitsSnooze-7" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-goodHabitsMindful-7" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-badHabitsSnooze-8" : { },
+      "checklistItem-calendar-page-goodHabitsMindful-8" : { },
+      "checklistItem-calendar-page-badHabitsSnooze-9" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-goodHabitsMindful-9" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-badHabitsSnooze-10" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-goodHabitsMindful-10" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-badHabitsSnooze-11" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-goodHabitsMindful-11" : { },
+      "checklistItem-calendar-page-badHabitsSnooze-12" : { },
+      "checklistItem-calendar-page-goodHabitsMindful-12" : { },
+      "checklistItem-calendar-page-badHabitsSnooze-13" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-goodHabitsMindful-13" : { },
+      "node-id-535520" : {
+        "celebrated" : true
+      },
+      "node-id-535521" : {
+        "celebrated" : true
+      },
+      "node-id-535522" : {
+        "celebrated" : true
+      },
+      "node-id-535523" : {
+        "celebrated" : true
+      },
+      "bfab681517caf564963ebf10751ae7f8" : {
+        "markedAsCompleted" : true
+      },
+      "checklistItem-calendar-page-badHabitsAlcohol-7" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-goodHabitsWalk-7" : { },
+      "checklistItem-calendar-page-badHabitsAlcohol-9" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-goodHabitsWalk-9" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-badHabitsAlcohol-10" : { },
+      "checklistItem-calendar-page-badHabitsAlcohol-11" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-goodHabitsWalk-11" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-badHabitsAlcohol-13" : {
+        "completed" : true
+      },
+      "checklistItem-calendar-page-goodHabitsWalk-13" : {
+        "completed" : true
+      },
+      "node-id-294233" : {
+        "celebrated" : true
+      },
+      "checklistItem-calendar-page-badHabitsAlcohol-8" : { },
+      "checklistItem-calendar-page-goodHabitsWalk-8" : { },
+      "checklistItem-calendar-page-goodHabitsWalk-10" : { },
+      "checklistItem-calendar-page-badHabitsAlcohol-12" : { },
+      "checklistItem-calendar-page-goodHabitsWalk-12" : { },
+      "OFFBOARDING_SURVEY_RATING" : {
+        "value" : "OFFBOARDING_SURVEY_SCALE_MEDIUM"
+      }
+    },
+    "global" : {
+      "joinDate" : "2022-02-26T22:04:06.751+00:00",
+      "timezone" : "Europe/London",
+      "timeFormat" : "h:mm A",
+      "complete" : true,
+      "quit" : false,
+      "abandon" : false,
+      "surveyFeedbackComplete" : true,
+      "firstName" : "Shi Yang",
+      "currentFlowPageId" : "offboardingSurvey-feedback",
+      "isCheckInCompleted" : true,
+      "sleepQualityScores" : [ 3, 2 ],
+      "sleepIssue" : "sleepQuality",
+      "currentSleepGoalBedtime" : "2022-02-26T23:15:00.000+00:00",
+      "badHabitsScores" : { },
+      "checklist" : [ [ "badHabitsSnooze", "goodHabitsMindful" ], [ "badHabitsSnooze", "goodHabitsMindful", "badHabitsAlcohol", "goodHabitsWalk" ] ],
+      "hasNotifications" : true,
+      "days" : [ {
+        "notificationsSentList" : [ ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      }, {
+        "notificationsSentList" : [ "DAILY_REMINDER" ]
+      } ],
+      "__protected" : {
+        "currentLocale" : "en_US"
+      },
+      "bedtime" : "2022-02-26T23:15:00Z",
+      "badHabitChoice" : "",
+      "goodHabitChoice" : "",
+      "startDate" : "2022-02-26T22:05:03.944+00:00",
+      "hasFiredWeek1StartEvent" : true,
+      "hasFiredWeek1CompleteEvent" : true,
+      "hasFiredWeek2StartEvent" : true,
+      "hasFiredWeek2CompleteEvent" : true,
+      "endDate" : "2022-03-12T09:48:42.519+00:00",
+      "isOutroComplete" : true
+    }
+  }
+}

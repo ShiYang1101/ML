@@ -1,0 +1,101 @@
+[{
+  "id" : 8902025536,
+  "date" : "02/28/22",
+  "waterAmount" : 600.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8914624795,
+  "date" : "03/05/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8914993427,
+  "date" : "03/05/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8915240513,
+  "date" : "03/05/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8914657482,
+  "date" : "03/05/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8915176053,
+  "date" : "03/05/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8915338007,
+  "date" : "03/05/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8914958050,
+  "date" : "03/05/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8916751896,
+  "date" : "03/06/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8916411741,
+  "date" : "03/06/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8916792393,
+  "date" : "03/06/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8916444065,
+  "date" : "03/06/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8917104868,
+  "date" : "03/07/22",
+  "waterAmount" : 500.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8918554956,
+  "date" : "03/07/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8918900465,
+  "date" : "03/07/22",
+  "waterAmount" : 500.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8921448711,
+  "date" : "03/08/22",
+  "waterAmount" : 500.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8921299316,
+  "date" : "03/08/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8921251676,
+  "date" : "03/08/22",
+  "waterAmount" : 500.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8934029995,
+  "date" : "03/14/22",
+  "waterAmount" : 500.0,
+  "measurementUnit" : "MILLILITER"
+},{
+  "id" : 8933884157,
+  "date" : "03/14/22",
+  "waterAmount" : 250.0,
+  "measurementUnit" : "MILLILITER"
+}]

@@ -1,0 +1,333 @@
+{
+  "summary" : {
+    "title" : "Run Training",
+    "subtitle" : null,
+    "status" : "ACTIVE",
+    "startedAt" : "2022-03-19T14:01:03Z",
+    "endedAt" : null,
+    "detail" : "<p><b>Take your run game up a notch as you work on speed and endurance. In this program, you will get a structured workout plan, cross-training video workouts, and daily tips and tricks.</b></p>\n\n<p>You will commit to 3 workouts per week with rest days in between. What to expect:</p>\n\n<ul>\n<li><b>Week 1: Build your base</b></li>\n<li><b>Week 2: Speed training</b></li>\n<li><b>Week 3: Let’s run!</b></li>\n</ul>\n<p><i>You should always consult with your health care professional before starting a new program. Any information within this program is not intended as a replacement for any medical advice, diagnosis or treatments and should not be relied upon as such. If you have any concerns or questions about your health, you should always consult with a health care professional.</i></p>"
+  },
+  "state" : {
+    "debug" : { },
+    "elements" : {
+      "__root__" : {
+        "activePageId" : ""
+      },
+      "node-id-367630" : {
+        "celebrated" : true
+      },
+      "49b49923a449e34fb2995bdafd9074c2" : {
+        "markedAsCompleted" : true,
+        "completed" : true
+      },
+      "node-id-368899" : {
+        "celebrated" : true
+      },
+      "66c0dee28debb486c9c2ddf106f2e1f1" : {
+        "markedAsCompleted" : true,
+        "completed" : true
+      }
+    },
+    "global" : {
+      "joinDate" : "2022-03-19T14:01:03.475+00:00",
+      "timezone" : "Europe/London",
+      "complete" : false,
+      "quit" : false,
+      "abandon" : false,
+      "isOnboardingComplete" : true,
+      "isOffboardingSurveyComplete" : false,
+      "firstName" : "Shi Yang",
+      "distanceUnit" : "METRIC",
+      "workoutDays" : [ 2, 4, 6 ],
+      "hasAzm" : true,
+      "hasCompletedFailureOffboarding" : false,
+      "activeProgramWeek" : 0,
+      "currentWeekStatus" : "RETRY",
+      "currentFlowPageId" : "",
+      "days" : [ {
+        "weekNum" : 0,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "49b49923a449e34fb2995bdafd9074c2",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 1,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 0,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "66c0dee28debb486c9c2ddf106f2e1f1",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 1
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 1,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 2,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 2,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 0,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 0,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 1
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 1,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 2,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 2,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 0,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 0,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 1
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 1,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 2,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 2,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 0,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "isWorkoutDay" : true,
+        "workoutIndex" : 0,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 1
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "isWorkoutDay" : true,
+        "workoutIndex" : 1,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "isWorkoutDay" : false,
+        "workoutIndex" : 2,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "isWorkoutDay" : true,
+        "workoutIndex" : 2,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "isWorkoutDay" : false,
+        "workoutIndex" : 0,
+        "restIndex" : 3
+      } ],
+      "__protected" : {
+        "currentLocale" : "en_US"
+      },
+      "motivationChoice" : "ENERGY",
+      "notificationTimestamp" : "11:00",
+      "workoutLocationChoice" : "WORKOUT_LOCATION_PREFERENCE_OUTDOORS",
+      "startDate" : "2022-03-19T14:01:21.948+00:00",
+      "firstWeekStartDate" : "2022-03-26T14:01:21.948+00:00",
+      "secondWeekStartDate" : "2022-04-02T14:01:21.948+01:00",
+      "thirdWeekStartDate" : "2022-04-09T14:01:21.948+01:00"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "summary" : {
+    "title" : "Daily Check-In Covid-19 (IFT)",
+    "subtitle" : null,
+    "status" : "ABANDONED",
+    "startedAt" : "2022-03-17T20:17:43Z",
+    "endedAt" : "2022-03-19T17:00:00Z",
+    "detail" : "<p>Daily Check-In helps you check for signs of COVID-19, so you can take steps to help keep you and those around you safe.</p>\n<ol>\n    <li><b>Wear your Fitbit device to bed.</b><br />Our COVID-19 Algorithm will analyze your Fitbit data for signs of COVID-19.</li><br />\n    <li><b>Complete your daily check-in.</b> <br />Answer COVID-19 screening questions.</li><br />\n    <li><b>Get guidance.</b> <br />We provide guidance based on your answers to the screening questions and Fitbit data.</li>\n</ol>"
+  },
+  "state" : {
+    "debug" : { },
+    "elements" : {
+      "__root__" : { },
+      "FATIGUE_CHECKLIST_ITEM" : {
+        "completed" : true
+      }
+    },
+    "global" : {
+      "__protected" : {
+        "currentLocale" : "en_US"
+      },
+      "dataStartDate" : "2022-03-04T00:00:00.000Z",
+      "userDisplayName" : "Shi Yang L.",
+      "plotData" : [ {
+        "RHR" : 59,
+        "nightHRV" : 57.864,
+        "respRate" : 15.6
+      }, {
+        "RHR" : 60,
+        "nightHRV" : 51.532,
+        "respRate" : 16.4
+      }, {
+        "RHR" : 60,
+        "nightHRV" : 67.717,
+        "respRate" : 15.6
+      }, {
+        "RHR" : 60,
+        "nightHRV" : 59.663,
+        "respRate" : 15.2
+      }, {
+        "RHR" : 60,
+        "nightHRV" : 65.476,
+        "respRate" : 15.2
+      }, {
+        "RHR" : 61,
+        "nightHRV" : 58.852,
+        "respRate" : 16
+      }, {
+        "RHR" : 60,
+        "nightHRV" : 63.763,
+        "respRate" : 16.2
+      }, {
+        "RHR" : 61,
+        "nightHRV" : 56.874,
+        "respRate" : 16
+      }, {
+        "RHR" : 61,
+        "nightHRV" : 57.616,
+        "respRate" : 15.8
+      }, {
+        "RHR" : 62,
+        "nightHRV" : 48.934,
+        "respRate" : 15.8
+      }, {
+        "RHR" : 63,
+        "nightHRV" : 47.836,
+        "respRate" : 16
+      }, {
+        "RHR" : 62,
+        "nightHRV" : 47.788,
+        "respRate" : 15.4
+      }, {
+        "RHR" : 62,
+        "nightHRV" : 49.644,
+        "respRate" : 15.6
+      }, {
+        "RHR" : 62,
+        "nightHRV" : 52.401,
+        "respRate" : 16.2
+      } ],
+      "version" : 5,
+      "startDate" : "2022-03-17T00:00:00.000Z",
+      "startTimeZone" : "Europe/London",
+      "temperatureUnits" : "°C",
+      "onboardingComplete" : true,
+      "initialDataLoadingComplete" : true,
+      "analyzingData" : false,
+      "editFlowSelectedTests" : [ ],
+      "assessments" : [ ],
+      "dailyCheckIns" : [ ],
+      "checkInToWorkForm" : {
+        "timezone" : "Europe/London",
+        "covidExposure" : "no",
+        "covidExposureDateTime" : "",
+        "covidTest" : "no",
+        "covidTestDateTime" : "",
+        "symptoms" : [ "FATIGUE_CHECKLIST_ITEM" ],
+        "symptomsStart" : "2022-03-17T00:00:00Z",
+        "symptomsEnd" : "2022-03-17T00:00:00Z",
+        "temperatureUnits" : "°C",
+        "temperature" : ""
+      },
+      "currentUserTimeZone" : "Europe/London",
+      "activePageId" : "checkIn--SummaryPage--0",
+      "hasPpgDevice" : true,
+      "consent" : {
+        "body" : "Daily Check-In allows you to log the following information in the Fitbit app:\n✓    Symptoms\n✓    Temperature \n✓    COVID-19 exposure\n✓    Test results\nThe feature also analyzes for signs of COVID-19 based on data tracked by your Fitbit device while you sleep.\nHow we use your information\nTo provide you with this feature, we use:\n-    the information you log for Daily Check-In,\n-    your health metrics, and \n-    other data we receive from your Fitbit device\nin accordance with our Privacy Policy. This includes in our research and to improve existing products and services, and to develop new ones.\nHow personal data is shared\nAs a member of a Fitbit Care program, if you use this feature your program provider will have access to the following personal data:\n-    Whether or not you completed a check-in;\n-    If you reported one or more symptoms and the dates your symptoms started and ended (but not the symptoms themselves);\n-    If you reported a fever (but not the actual value);\n-    If you reported a COVID-19 exposure or a positive test result and the date of the event;\n-    If your Fitbit data shows signs of COVID-19; and\n-    The guidance you received, which may include the time we recommend you stay at home.\nThe following data will not be shared with your program provider as part of Daily Check-In:\n-    Symptoms you logged;\n-    Temperature value you logged;\n-    Health metrics generated from data tracked by your Fitbit device (heart rate variability, breathing rate, heart rate during sleep).\nYour program provider will process your personal information in accordance with its applicable privacy policy.\nHow aggregate data is shared\nYour program provider will also have access to aggregate data, which is data that does not identify you personally and is combined with other participant data in your program.\nAggregate data includes the number of people in your program who have used the feature, logged symptoms, or received guidance to stay at home.\nYour control over your data\nYou don’t have to use this feature, and you can always stop using it or quit the Daily Check-In experience. You can also delete your Daily Check-In data or your Fitbit account at any time. For more on how we handle and protect your personal information, please read our Privacy Policy.\nVIEW FITBIT’S PRIVACY POLICY",
+        "title" : "An important note about privacy",
+        "navigationButtonTitle" : "I AGREE",
+        "date" : "2022-03-17T20:18:14.977Z"
+      }
+    }
+  }
+}
