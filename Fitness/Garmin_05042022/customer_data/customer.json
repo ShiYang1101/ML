@@ -1,0 +1,38 @@
+{
+  "id" : null,
+  "firstName" : "Shi",
+  "middleName" : null,
+  "lastName" : "Yang Lee",
+  "fullName" : "Shi Yang Lee",
+  "namePrefix" : null,
+  "nameSuffix" : null,
+  "gender" : null,
+  "displayName" : null,
+  "username" : "SHIYANGLEE1998@GMAIL.COM",
+  "primaryAddress" : null,
+  "primaryEmailAddress" : {
+    "emailAddress" : "shiyanglee1998@gmail.com",
+    "type" : null,
+    "primary" : true,
+    "emailVerified" : false,
+    "emailVerificationTimestamp" : null,
+    "emailAddressId" : null
+  },
+  "primaryPhoneNumber" : null,
+  "locale" : "en_GB",
+  "type" : null,
+  "active" : true,
+  "version" : 11,
+  "lastUpdateDateTime" : "2022-04-05T16:12:49Z",
+  "createdDate" : "2022-03-23T18:26:57Z",
+  "customerLocation" : {
+    "countryCode" : "GB",
+    "verified" : true,
+    "verifiedTimestamp" : "2022-03-23T18:26:58Z"
+  },
+  "addresses" : [ ],
+  "emailAddresses" : [ ],
+  "phoneNumbers" : [ ],
+  "foreignIdentifiers" : [ ],
+  "loginInfo" : null
+}
