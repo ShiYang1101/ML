@@ -1,0 +1,294 @@
+{
+  "summary" : {
+    "title" : "Intro to Healthy Habits",
+    "subtitle" : null,
+    "status" : "ABANDONED",
+    "startedAt" : "2022-04-09T22:04:41Z",
+    "endedAt" : "2022-04-19T23:08:41Z",
+    "detail" : "<p><b>We already know a bit about you, but there is still plenty we don’t.</b><br></p><p>This week you will focus on tracking against those data gaps and get a head start towards improving your habits. <p>What to expect:</p><ul><li>Learn what your data gaps are and track against those gaps.</li> <li>See how your current stats compare to your goals.</li> <li>Get a comprehensive picture of your strengths and where you may need extra guidance.\n</li></ul></p></p>\n<p><i>You should always consult with your health care professional before starting a new program. Any information within this program is not intended as a replacement for any medical advice, diagnosis or treatments and should not be relied upon as such. If you have any concerns or questions about your health, you should always consult with a health care professional.</i></p>"
+  },
+  "state" : {
+    "debug" : { },
+    "elements" : {
+      "__root__" : {
+        "activePageId" : "calendar-page-5"
+      },
+      "SECONDARY_NUMBER_PICKER_ID" : { },
+      "TEXT_INPUT_ITEM_ID" : {
+        "text" : "gain weight"
+      },
+      "node-id-297248" : {
+        "celebrated" : true
+      },
+      "node-id-295607" : {
+        "celebrated" : true
+      },
+      "node-id-440042" : {
+        "celebrated" : true
+      },
+      "node-id-440043" : {
+        "celebrated" : true
+      },
+      "node-id-440044" : {
+        "celebrated" : true
+      },
+      "node-id-54570" : {
+        "celebrated" : true
+      },
+      "node-id-54572" : {
+        "celebrated" : true
+      },
+      "node-id-59839" : {
+        "celebrated" : true
+      },
+      "node-id-59841" : {
+        "celebrated" : true
+      },
+      "node-id-59840" : {
+        "celebrated" : true
+      },
+      "node-id-216064" : {
+        "celebrated" : true
+      },
+      "node-id-216062" : {
+        "celebrated" : true
+      },
+      "node-id-216290" : {
+        "celebrated" : true
+      },
+      "node-id-216292" : {
+        "celebrated" : true
+      },
+      "node-id-216291" : {
+        "celebrated" : true
+      },
+      "node-id-245073" : {
+        "celebrated" : true
+      },
+      "node-id-245074" : {
+        "celebrated" : true
+      },
+      "node-id-245075" : {
+        "celebrated" : true
+      }
+    },
+    "global" : {
+      "currentWeight" : 56,
+      "userWeightUnit" : "METRIC",
+      "userDisplayName" : "Shi Yang",
+      "timezone" : "Europe/London",
+      "typicalWakeupTimeStamp" : 91,
+      "days" : [ {
+        "coreHabitList" : [ {
+          "name" : "STEP_HABIT",
+          "complete" : false
+        }, {
+          "name" : "FOOD_HABIT",
+          "complete" : false
+        }, {
+          "name" : "SLEEP_HABIT",
+          "complete" : true
+        } ],
+        "stepCount" : 1133,
+        "sleepDuration" : 676,
+        "mealList" : [ ],
+        "breakfastLogged" : false,
+        "lunchLogged" : false,
+        "dinnerLogged" : false,
+        "breakfastNotificationSent" : false,
+        "lunchNotificationSent" : false,
+        "dinnerNotificationSent" : false,
+        "firstStepNotificationSent" : false,
+        "secondStepNotificationSent" : false,
+        "sleepNotificationSent" : false,
+        "habitCelebrationSent" : false,
+        "programOpened" : true,
+        "programNotificationDriverSent" : false
+      }, {
+        "coreHabitList" : [ {
+          "name" : "STEP_HABIT",
+          "complete" : false
+        }, {
+          "name" : "FOOD_HABIT",
+          "complete" : false
+        }, {
+          "name" : "SLEEP_HABIT",
+          "complete" : true
+        } ],
+        "stepCount" : 0,
+        "sleepDuration" : 588,
+        "mealList" : [ ],
+        "breakfastLogged" : false,
+        "lunchLogged" : false,
+        "dinnerLogged" : false,
+        "breakfastNotificationSent" : false,
+        "lunchNotificationSent" : false,
+        "dinnerNotificationSent" : false,
+        "firstStepNotificationSent" : false,
+        "secondStepNotificationSent" : false,
+        "sleepNotificationSent" : false,
+        "habitCelebrationSent" : false,
+        "programOpened" : false,
+        "programNotificationDriverSent" : false
+      }, {
+        "coreHabitList" : [ {
+          "name" : "STEP_HABIT",
+          "complete" : true
+        }, {
+          "name" : "FOOD_HABIT",
+          "complete" : true
+        }, {
+          "name" : "SLEEP_HABIT",
+          "complete" : true
+        } ],
+        "stepCount" : 5896,
+        "sleepDuration" : 359,
+        "mealList" : [ 3 ],
+        "breakfastLogged" : false,
+        "lunchLogged" : false,
+        "dinnerLogged" : false,
+        "breakfastNotificationSent" : false,
+        "lunchNotificationSent" : false,
+        "dinnerNotificationSent" : false,
+        "firstStepNotificationSent" : false,
+        "secondStepNotificationSent" : false,
+        "sleepNotificationSent" : false,
+        "habitCelebrationSent" : true,
+        "programOpened" : true,
+        "programNotificationDriverSent" : false
+      }, {
+        "coreHabitList" : [ {
+          "name" : "STEP_HABIT",
+          "complete" : true
+        }, {
+          "name" : "FOOD_HABIT",
+          "complete" : true
+        }, {
+          "name" : "SLEEP_HABIT",
+          "complete" : true
+        } ],
+        "stepCount" : 10553,
+        "sleepDuration" : 343,
+        "mealList" : [ 3, 1 ],
+        "breakfastLogged" : false,
+        "lunchLogged" : false,
+        "dinnerLogged" : false,
+        "breakfastNotificationSent" : false,
+        "lunchNotificationSent" : false,
+        "dinnerNotificationSent" : false,
+        "firstStepNotificationSent" : true,
+        "secondStepNotificationSent" : false,
+        "sleepNotificationSent" : false,
+        "habitCelebrationSent" : true,
+        "programOpened" : true,
+        "programNotificationDriverSent" : false
+      }, {
+        "coreHabitList" : [ {
+          "name" : "STEP_HABIT",
+          "complete" : true
+        }, {
+          "name" : "FOOD_HABIT",
+          "complete" : false
+        }, {
+          "name" : "SLEEP_HABIT",
+          "complete" : true
+        } ],
+        "stepCount" : 5522,
+        "sleepDuration" : 504,
+        "mealList" : [ ],
+        "breakfastLogged" : false,
+        "lunchLogged" : false,
+        "dinnerLogged" : false,
+        "breakfastNotificationSent" : false,
+        "lunchNotificationSent" : false,
+        "dinnerNotificationSent" : false,
+        "firstStepNotificationSent" : false,
+        "secondStepNotificationSent" : false,
+        "sleepNotificationSent" : false,
+        "habitCelebrationSent" : false,
+        "programOpened" : false,
+        "programNotificationDriverSent" : false
+      }, {
+        "coreHabitList" : [ {
+          "name" : "STEP_HABIT",
+          "complete" : true
+        }, {
+          "name" : "FOOD_HABIT",
+          "complete" : true
+        }, {
+          "name" : "SLEEP_HABIT",
+          "complete" : true
+        } ],
+        "stepCount" : 10347,
+        "sleepDuration" : 452,
+        "mealList" : [ 5, 3, 1 ],
+        "breakfastLogged" : false,
+        "lunchLogged" : false,
+        "dinnerLogged" : false,
+        "breakfastNotificationSent" : false,
+        "lunchNotificationSent" : false,
+        "dinnerNotificationSent" : false,
+        "firstStepNotificationSent" : true,
+        "secondStepNotificationSent" : false,
+        "sleepNotificationSent" : false,
+        "habitCelebrationSent" : true,
+        "programOpened" : true,
+        "programNotificationDriverSent" : false
+      }, {
+        "coreHabitList" : [ {
+          "name" : "STEP_HABIT",
+          "complete" : true
+        }, {
+          "name" : "FOOD_HABIT",
+          "complete" : false
+        }, {
+          "name" : "SLEEP_HABIT",
+          "complete" : true
+        } ],
+        "stepCount" : 8104,
+        "sleepDuration" : 122,
+        "mealList" : [ ],
+        "breakfastLogged" : false,
+        "lunchLogged" : false,
+        "dinnerLogged" : false,
+        "breakfastNotificationSent" : false,
+        "lunchNotificationSent" : false,
+        "dinnerNotificationSent" : false,
+        "firstStepNotificationSent" : false,
+        "secondStepNotificationSent" : false,
+        "sleepNotificationSent" : false,
+        "habitCelebrationSent" : false,
+        "programOpened" : false,
+        "programNotificationDriverSent" : false
+      } ],
+      "averageSteps" : 6499,
+      "averageCalories" : 2263,
+      "averageActiveMinutes" : 26,
+      "appStepGoal" : 10000,
+      "intentionForJoin" : "gain weight",
+      "currentHeightInCM" : 175.3,
+      "userHasPremium" : true,
+      "hasHistoricalActivityData" : true,
+      "abandon" : true,
+      "quit" : false,
+      "isOffboardingComplete" : false,
+      "completedWorkoutTemplateIds" : [ ],
+      "hasWeighedInRecently" : false,
+      "experimentVersion" : "experimentA",
+      "userTimeFormat" : "12hour",
+      "averageDeepSleep" : 475,
+      "historicalAverageSugarIn" : 0,
+      "historicalAverageSodiumIn" : 0,
+      "historicalAverageFatIn" : 0,
+      "averageCaloriesIn" : 1543,
+      "calsInGoal" : 1809,
+      "__protected" : {
+        "currentLocale" : "en_US"
+      },
+      "shouldIncludeFoodLogging" : true,
+      "convertedCurrentWeight" : 56,
+      "allowNotifications" : true,
+      "startDate" : "2022-04-09T00:00:00.000+01:00"
+    }
+  }
+}

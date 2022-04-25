@@ -1,0 +1,43 @@
+{
+  "summary" : {
+    "title" : "Intro to HIIT",
+    "subtitle" : null,
+    "status" : "ACTIVE",
+    "startedAt" : "2022-04-09T22:10:01Z",
+    "endedAt" : null,
+    "detail" : "<p><b>Reach your goals faster with high intensity interval training. HIIT workouts alternate between short periods of intense exercise and recovery periods, so you can push yourself and get more done in less time.</b></p> <p>Here's a snapshot of this 3-week plan:</p> <ul> <li><b>Try different forms of HIIT</b> to beat boredom and avoid fitness plateaus.</li>  <li><b>Mix cardio and strength moves</b> to maximize your calorie burn. </li><li><b>As you get stronger,</b> we'll challenge you with longer workouts.</li></ul><p><i>You should always consult with your health care professional before starting a new plan. Any information within this plan is not intended as a replacement for any medical advice, diagnosis or treatments and should not be relied upon as such. If you have any concerns or questions about your health, you should always consult with a health care professional.</i></p>"
+  },
+  "state" : {
+    "debug" : { },
+    "elements" : {
+      "__root__" : {
+        "userId" : "9WLDBW",
+        "activePageId" : "onboarding-plan"
+      },
+      "week0item0" : { },
+      "week0item1" : { },
+      "week0item2" : { },
+      "onboarding-plan-counter" : {
+        "celebrated" : true
+      }
+    },
+    "global" : {
+      "__protected" : {
+        "currentLocale" : "en_US"
+      },
+      "currentFlowPageId" : "",
+      "lastNotificationSent" : 7,
+      "lastWorkoutCompletedOn" : -1,
+      "nextCheckin" : 0,
+      "notificationChoice" : "2022-04-09T11:00:00+01:00",
+      "onboardingComplete" : true,
+      "startDate" : "2022-04-09T00:00:00.000+01:00",
+      "timeFormat" : "12hour",
+      "timezone" : "Europe/London",
+      "userName" : "Shi Yang",
+      "weekEndedAnalytic" : -1,
+      "weekNumber" : 0,
+      "weekStartDate" : "2022-04-09T00:00:00.000+01:00"
+    }
+  }
+}

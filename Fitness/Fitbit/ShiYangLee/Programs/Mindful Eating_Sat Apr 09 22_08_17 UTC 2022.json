@@ -1,0 +1,66 @@
+{
+  "summary" : {
+    "title" : "Mindful Eating",
+    "subtitle" : null,
+    "status" : "ABANDONED",
+    "startedAt" : "2022-04-09T22:08:17Z",
+    "endedAt" : "2022-04-19T23:08:41Z",
+    "detail" : "<p><b>Do you eat so fast you hardly notice the food you’re putting into your body? Are you often left feeling stuffed, yet mentally unsatisfied and guilty after a meal?</b></p>\n<p>Perhaps it’s time to slow down and smell the rosemary. Research shows eating more mindfully may lead to healthier eating habits and better weight management.</p>\n<p>What to expect:</p>\n<ul>\n<li>Get daily audio guidance from your mindful eating coach, Lea.</li>\n<li>Learn how to start listening to your body.</li>\n<li>Become more aware of your triggers to eat and get tips to avoid non-hungry eating.</li>\n<li>Begin to eat with more enjoyment, and less guilt!</li>\n</ul>\n<p><i>You should always consult with your health care professional before starting a new program. Any information within this program is not intended as a replacement for any medical advice, diagnosis or treatments and should not be relied upon as such. If you have any concerns or questions about your health, you should always consult with a health care professional.</i></p>"
+  },
+  "state" : {
+    "debug" : { },
+    "elements" : {
+      "__root__" : {
+        "userId" : "9WLDBW",
+        "activePageId" : "CALENDAR_PAGE_5_ID"
+      },
+      "node-id-80075" : {
+        "celebrated" : true
+      },
+      "check-box-0" : { },
+      "check-box-1" : { },
+      "check-box-2" : { },
+      "check-box-3" : { },
+      "check-box-4" : { },
+      "check-box-5" : { },
+      "check-box-6" : { }
+    },
+    "global" : {
+      "userDisplayName" : "Shi Yang",
+      "timezone" : "Europe/London",
+      "focus" : 1,
+      "onboardingComplete" : true,
+      "surveyWindowOpen" : true,
+      "notifications" : [ {
+        "text" : "How hungry are you when you eat? According to Coach Lea, this simple tool can help you check.",
+        "sent" : false
+      }, {
+        "text" : "Mindful Eating: Eat with all your senses today 👀👃👅 Coach Lea can tell you how it's done! Let's listen👂",
+        "sent" : true
+      }, {
+        "text" : "Mindful Eating: Is distracted eating hurting your health? Coach Lea explains why slowing down and focusing on your food is important.",
+        "sent" : true
+      }, {
+        "text" : "Mindful Eating: How often do you chew each mouthful? Learn why it's important to chew each and every bite.",
+        "sent" : true
+      }, {
+        "text" : "Mindful Eating: Food is one of life's great pleasures. Learn how to savor and enjoy your food, guilt free!",
+        "sent" : true
+      }, {
+        "text" : "Mindful Eating: Are you able to stop eating once you're satisfied, not stuffed? Coach Lea explains how you can find that sweet spot.",
+        "sent" : true
+      }, {
+        "text" : "Mindful Eating: It's time for your guided mindful meal with Coach Lea.",
+        "sent" : true
+      } ],
+      "dailyCheckboxesCompleted" : 0,
+      "dailyAudioFilesCompleted" : 0,
+      "currentFlowPageId" : "",
+      "surveyFeedbackComplete" : false,
+      "__protected" : {
+        "currentLocale" : "en_US"
+      },
+      "startDate" : "2022-04-09T00:00:00.000+01:00"
+    }
+  }
+}

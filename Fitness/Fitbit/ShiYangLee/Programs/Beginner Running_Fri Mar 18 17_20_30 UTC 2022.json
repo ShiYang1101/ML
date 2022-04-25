@@ -1,0 +1,301 @@
+{
+  "summary" : {
+    "title" : "Beginner Running",
+    "subtitle" : null,
+    "status" : "ABANDONED",
+    "startedAt" : "2022-03-18T17:20:30Z",
+    "endedAt" : "2022-04-11T10:00:00Z",
+    "detail" : "<p><b>Lace up your running shoes! In this program, you’ll go from walking to running in 3 weeks. Train with a solid game plan that features 3 workouts per week with plenty of rest days in between. Here’s what to expect:</b></p>\n\n<ul>\n<li><b>Week 1: Building up your base</b></li>\n<li><b>Week 2: Pick up the pace</b></li>\n<li><b>Week 3: Ready, set, run!</b></li>\n</ul>\n<p><i>You should always consult with your health care professional before starting a new program. Any information within this program is not intended as a replacement for any medical advice, diagnosis or treatments and should not be relied upon as such. If you have any concerns or questions about your health, you should always consult with a health care professional.</i></p>"
+  },
+  "state" : {
+    "debug" : { },
+    "elements" : {
+      "__root__" : {
+        "activePageId" : ""
+      },
+      "node-id-249556" : {
+        "celebrated" : true
+      },
+      "node-id-452659" : {
+        "celebrated" : true
+      },
+      "node-id-465687" : {
+        "celebrated" : true
+      },
+      "node-id-452803" : {
+        "celebrated" : true
+      }
+    },
+    "global" : {
+      "joinDate" : "2022-03-18T17:20:31.187+00:00",
+      "timezone" : "Europe/London",
+      "complete" : false,
+      "quit" : false,
+      "abandon" : true,
+      "isOnboardingComplete" : true,
+      "isOffboardingSurveyComplete" : false,
+      "firstName" : "Shi Yang",
+      "distanceUnit" : "METRIC",
+      "workoutDays" : [ 2, 4, 6 ],
+      "hasAzm" : false,
+      "hasCompletedFailureOffboarding" : false,
+      "activeProgramWeek" : 1,
+      "currentWeekStatus" : "ACTIVE",
+      "currentFlowPageId" : "",
+      "days" : [ {
+        "weekNum" : 0,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 0,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : {
+          "activityId" : "90009",
+          "exerciseId" : "46711840840",
+          "mins" : 33,
+          "cals" : 261,
+          "exerciseDateTime" : "2022-03-19T14:06:24.000+00:00",
+          "exerciseDurationMs" : 2009000,
+          "isCounted" : true
+        },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 0,
+        "restIndex" : 1
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 1
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : {
+          "activityId" : "90013",
+          "exerciseId" : "46820659299",
+          "mins" : 18,
+          "cals" : 117,
+          "exerciseDateTime" : "2022-03-22T15:11:45.000+00:00",
+          "exerciseDurationMs" : 1075000,
+          "isCounted" : true
+        },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 1,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 2,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 0,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : {
+          "activityId" : "90013",
+          "exerciseId" : "46852119311",
+          "mins" : 17,
+          "cals" : 108,
+          "exerciseDateTime" : "2022-03-24T09:39:16.000+00:00",
+          "exerciseDurationMs" : 1067000,
+          "isCounted" : true
+        },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 2,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 0,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 0,
+        "restIndex" : 1
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 1
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : {
+          "activityId" : "90013",
+          "exerciseId" : "46977436531",
+          "mins" : 32,
+          "cals" : 178,
+          "exerciseDateTime" : "2022-03-29T10:23:18.000+01:00",
+          "exerciseDurationMs" : 1895000,
+          "isCounted" : true
+        },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 1,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 2,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 1,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 2,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : true,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 0,
+        "restIndex" : 0
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 0,
+        "restIndex" : 1
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 1
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 1,
+        "restIndex" : 2
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 1,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : false,
+        "workoutIndex" : 2,
+        "restIndex" : 3
+      }, {
+        "weekNum" : 2,
+        "wasNotificationSent" : false,
+        "completedWorkoutTemplateId" : "",
+        "completedActiveRestWorkoutTemplateId" : "",
+        "completedAlternateWorkout" : { },
+        "azmEarned" : 0,
+        "isWorkoutDay" : true,
+        "workoutIndex" : 2,
+        "restIndex" : 0
+      } ],
+      "__protected" : {
+        "currentLocale" : "en_US"
+      },
+      "motivationChoice" : "ENERGY",
+      "notificationTimestamp" : "17:00",
+      "workoutLocationChoice" : "WORKOUT_LOCATION_PREFERENCE_OUTDOORS",
+      "startDate" : "2022-03-18T17:21:57.142+00:00",
+      "firstWeekStartDate" : "2022-03-18T17:21:57.142+00:00",
+      "secondWeekStartDate" : "2022-03-25T17:21:57.142+00:00",
+      "thirdWeekStartDate" : "2022-04-01T17:21:57.142+01:00",
+      "alternateWorkoutDayIndex" : null
+    }
+  }
+}
