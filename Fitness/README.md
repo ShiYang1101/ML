@@ -1,7 +1,7 @@
 My personal anlysis for fitness data. Data collected using Fitbit Charge 4 and Garmin Style.
 
 I have realized that there is a disagreement between Garmin and Fitbit hr. It is quite obvious from the plot below:
-![plot](garmin_vs_fitbit.png = 50x50)
+![plot](garmin_vs_fitbit.png =250x250)
 
 Garmin wacthes tends to have higher spikes comparing with my Fibit charge 4. Which aligns with my hand measurement with metronome. According to forums on Garmin website, there was suggestion that Garmin hr algorithm might be tied with steps or cadence counter. The purpose of this project was to investigate the claim.
 
