@@ -12,6 +12,7 @@
   "efficiency" : 95,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -289,6 +290,7 @@
   "efficiency" : 85,
   "type" : "classic",
   "infoCode" : 2,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "restless" : {
@@ -349,6 +351,7 @@
   "efficiency" : 97,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -566,6 +569,7 @@
   "efficiency" : 92,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "manual",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -791,6 +795,7 @@
   "efficiency" : 93,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "manual",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -1024,6 +1029,7 @@
   "efficiency" : 91,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -1229,6 +1235,7 @@
   "efficiency" : 97,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -1378,6 +1385,7 @@
   "efficiency" : 94,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -1575,6 +1583,7 @@
   "efficiency" : 95,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -1800,6 +1809,7 @@
   "efficiency" : 92,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -2097,6 +2107,7 @@
   "efficiency" : 97,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -2258,6 +2269,7 @@
   "efficiency" : 95,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -2555,6 +2567,7 @@
   "efficiency" : 98,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -2760,6 +2773,7 @@
   "efficiency" : 98,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -2925,6 +2939,7 @@
   "efficiency" : 94,
   "type" : "classic",
   "infoCode" : 2,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "restless" : {
@@ -3005,6 +3020,7 @@
   "efficiency" : 99,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -3170,6 +3186,7 @@
   "efficiency" : 98,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -3403,6 +3420,7 @@
   "efficiency" : 99,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -3512,6 +3530,7 @@
   "efficiency" : 97,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "manual",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -3749,6 +3768,7 @@
   "efficiency" : 97,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -3982,6 +4002,7 @@
   "efficiency" : 95,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -4211,6 +4232,7 @@
   "efficiency" : 92,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "manual",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -4376,6 +4398,7 @@
   "efficiency" : 89,
   "type" : "classic",
   "infoCode" : 2,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "restless" : {
@@ -4448,6 +4471,7 @@
   "efficiency" : 96,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -4633,6 +4657,7 @@
   "efficiency" : 92,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -4890,6 +4915,7 @@
   "efficiency" : 92,
   "type" : "classic",
   "infoCode" : 2,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "restless" : {
@@ -4938,6 +4964,7 @@
   "efficiency" : 99,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -5183,6 +5210,7 @@
   "efficiency" : 92,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -5356,6 +5384,7 @@
   "efficiency" : 97,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -5537,6 +5566,7 @@
   "efficiency" : 99,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -5702,6 +5732,7 @@
   "efficiency" : 88,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -5887,6 +5918,7 @@
   "efficiency" : 97,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "manual",
   "levels" : {
     "summary" : {
       "deep" : {
@@ -6044,6 +6076,7 @@
   "efficiency" : 93,
   "type" : "classic",
   "infoCode" : 2,
+  "logType" : "manual",
   "levels" : {
     "summary" : {
       "restless" : {
@@ -6140,6 +6173,7 @@
   "efficiency" : 95,
   "type" : "stages",
   "infoCode" : 0,
+  "logType" : "auto_detected",
   "levels" : {
     "summary" : {
       "deep" : {

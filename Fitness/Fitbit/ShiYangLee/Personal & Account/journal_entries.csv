@@ -1,4 +1,5 @@
 entry_id,log_time,log_type,value,meta,entry_category,zone_offset
+1e8819d0-c534-11ec-8ffa-0b2de2d0eb5c,2022-04-26T08:40:13,MOOD,1,{mindfulnessSessionId=c5ab2290-c52d-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,+01:00
 c1def710-c206-11ec-80f4-ab4199d9f96a,2022-04-22T07:33:36,MOOD,1,{mindfulnessSessionId=b98d0f90-c204-11ec-8080-808080808080, platform=mobile, source=mindfulness},MOOD,+01:00
 bd71d520-aecf-11ec-8406-7bfc72466f6a,2022-03-28T20:46:19,MOOD,2,{platform=mobile, source=stress},MOOD,+01:00
 617b2110-aab3-11ec-9421-032310160061,2022-03-23T14:13:13,MOOD,3,{platform=mobile},MOOD,Z

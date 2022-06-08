@@ -61,4 +61,31 @@
     "filteredRunVO2Max" : 64.20388000000001,
     "filteredRunVO2MaxError" : 2.8978
   }
+},{
+  "dateTime" : "04/26/22 17:29:06",
+  "value" : {
+    "exerciseId" : 47602541967,
+    "runVO2Max" : 65.47412,
+    "runVO2MaxError" : 44.7924,
+    "filteredRunVO2Max" : 64.2848,
+    "filteredRunVO2MaxError" : 2.8536300000000003
+  }
+},{
+  "dateTime" : "04/29/22 17:03:08",
+  "value" : {
+    "exerciseId" : 47648591793,
+    "runVO2Max" : 60.91411000000001,
+    "runVO2MaxError" : 9.97676,
+    "filteredRunVO2Max" : 63.504830000000005,
+    "filteredRunVO2MaxError" : 2.30859
+  }
+},{
+  "dateTime" : "05/01/22 14:52:33",
+  "value" : {
+    "exerciseId" : 47717951081,
+    "runVO2Max" : 59.734880000000004,
+    "runVO2MaxError" : 6.46858,
+    "filteredRunVO2Max" : 62.481950000000005,
+    "filteredRunVO2MaxError" : 1.7550800000000002
+  }
 }]

@@ -1,0 +1,113 @@
+[{
+  "dateTime" : "05/26/22 23:38:48",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "05/28/22 09:04:36",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "05/30/22 11:29:34",
+  "value" : {
+    "lapDurationSec" : 10,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "05/30/22 17:29:02",
+  "value" : {
+    "lapDurationSec" : 33,
+    "strokeCount" : 13,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "05/31/22 08:12:05",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "05/31/22 12:50:20",
+  "value" : {
+    "lapDurationSec" : 20,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "05/31/22 22:11:26",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "05/31/22 22:15:25",
+  "value" : {
+    "lapDurationSec" : 21,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "05/31/22 22:16:23",
+  "value" : {
+    "lapDurationSec" : 23,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "05/31/22 22:18:24",
+  "value" : {
+    "lapDurationSec" : 23,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "06/01/22 10:16:24",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "06/01/22 11:20:30",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "06/03/22 18:42:54",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "06/06/22 08:05:50",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+}]

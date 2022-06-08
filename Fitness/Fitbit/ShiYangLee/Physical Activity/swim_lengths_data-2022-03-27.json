@@ -3462,4 +3462,132 @@
     "swimStrokeType" : "UNKNOWN",
     "swimAlgorithmType" : "EUCLID"
   }
+},{
+  "dateTime" : "04/24/22 19:57:16",
+  "value" : {
+    "lapDurationSec" : 9,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/24/22 19:57:31",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/24/22 20:05:10",
+  "value" : {
+    "lapDurationSec" : 15,
+    "strokeCount" : 8,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 07:47:14",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 08:12:29",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 9,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 09:05:20",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 09:06:49",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 09:18:12",
+  "value" : {
+    "lapDurationSec" : 14,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 10:03:31",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 10:03:54",
+  "value" : {
+    "lapDurationSec" : 27,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 14:29:20",
+  "value" : {
+    "lapDurationSec" : 11,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 20:03:01",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 20:12:30",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 21:59:00",
+  "value" : {
+    "lapDurationSec" : 16,
+    "strokeCount" : 7,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 22:05:31",
+  "value" : {
+    "lapDurationSec" : 12,
+    "strokeCount" : 6,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
+},{
+  "dateTime" : "04/25/22 22:10:48",
+  "value" : {
+    "lapDurationSec" : 17,
+    "strokeCount" : 5,
+    "swimStrokeType" : "UNKNOWN",
+    "swimAlgorithmType" : "EUCLID"
+  }
 }]

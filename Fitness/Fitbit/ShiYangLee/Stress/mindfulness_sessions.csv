@@ -1,4 +1,5 @@
 session_id,activity_name,average_heart_rate,start_heart_rate,end_heart_rate,duration,start_date_time,end_date_time,session_type,stress_metrics,pause_times
+c5ab2290-c52d-11ec-8080-808080808080,Waking Up in Bed,85,66,128,299995,2022-04-26T07:54:52+01:00,2022-04-26T08:40:13+01:00,mobile-discover,null,null
 b98d0f90-c204-11ec-8080-808080808080,When Waking Up is Tough,62,64,64,600495,2022-04-22T07:23:29+01:00,2022-04-22T07:33:36+01:00,mobile-discover,null,null
 bd430300-a8e7-11ec-8080-808080808080,Guided Meditation to Start Your Day,56,61,53,348900,2022-03-21T07:23Z,2022-03-21T07:29:26Z,mobile-discover,null,null
 8cbf78c0-a5cd-11ec-8080-808080808080,Anxiety Release,72,72,69,624000,2022-03-17T08:37:58Z,2022-03-17T08:48:47Z,mobile-discover,null,null
